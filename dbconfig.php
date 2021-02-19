@@ -2,8 +2,8 @@
 //connexion BDD
      const DB_HOST    = "localhost";
      const DB_NAME    = "landingpage";
-     const DB_LOGIN   = "root";
-     const DB_PASS    = "";
+     const DB_LOGIN   = "XXXXXXXXXX";
+     const DB_PASS    = "XXXXXXXXXX";
    
      const DB_DRIVER  = "mysql";
      const DB_CHARSET = "utf8mb4";
